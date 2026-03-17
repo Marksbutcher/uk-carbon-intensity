@@ -1,0 +1,4 @@
+.DS_Store
+.claude/
+preprocess.py
+node_modules/
